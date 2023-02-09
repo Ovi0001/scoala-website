@@ -1,0 +1,47 @@
+*{
+    margin: 0 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tabel{
+    width: 50%;
+    margin: 0 auto;
+    padding: 1%;  
+    background-color:rgb(122, 121, 121);
+    padding-bottom: 210px;
+}
+
+.centru{
+    background-color: rgb(255, 255, 255);
+    margin: 0% auto;
+    padding: 2%;
+    border-radius: 15%;    
+    }
+
+.centru a:hover{ 
+        color:red;
+    }
+
+/*acasa*/
+.acasa1{
+        width: 100%;
+        margin: 0 auto;
+        padding: 1%;  
+        background-color:rgb(122, 121, 121);
+        padding-bottom: 202px;
+    }
+    
+.acasa2{
+        background-color: rgb(255, 255, 255);
+        margin: 0% auto;
+        padding: 2%;
+        border-radius: 30px;    
+        }
+
+.poza1{
+    width:960px;
+    height: 960px;
+}
+    
+
+
